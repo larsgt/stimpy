@@ -1,0 +1,11 @@
+Easy access to Seqware VM
+- Reduce footprint of VM
+- Create bootstrap script for downloading and starting VM
+
+Local runner
+- Example of running local script
+- Write "metadata" to file
+
+Seqware runner
+- Figure out a way of wrapping workflow file into bundle
+- Example of running Seqware workflow
