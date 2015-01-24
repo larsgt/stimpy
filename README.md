@@ -14,12 +14,17 @@ QUICK START
 
 export PATH=$HOME/Downloads/groovy-2.4.0/bin/:${PATH}
 
-# Local: Run src/example.groovy using local execution environment
+Local 
+-----
+Run src/example.groovy using local execution environment
   ./run_local.sh
 
 
-# Seqware: Run src/example.groovy using the SeqWare environmetn.
+Seqware
+-------
+Run src/example.groovy using the SeqWare environmetn.
   # Only run once
   ./seqware_setup.sh
   ./create_examples.sh
+  # Run script
   ./run_seqware.sh
